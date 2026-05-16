@@ -47,6 +47,8 @@
 <tbody>
 <!-- <tr><td>&nbsp;[WIP]</td></tr> -->
 
+<tr><td>&nbsp;2026-05-15 Rehost</td></tr>
+
 <tr><td>&nbsp;2026-02-09 Added <a href=music/music.html>music</a></td></tr>
 
 <tr><td>&nbsp;2025-12-12 Now with <a href=photo-grid/photo-grid.html>photo-grid</a></td></tr>
