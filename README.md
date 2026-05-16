@@ -1,6 +1,6 @@
 
 <html><head>
-    <title>Homepage</title>
+    <!-- <tr><td>&nbsp;[WIP]</td></tr><title>Homepage</title>
   <style>
 .thing1 {
   border: 1px #000000;
@@ -26,12 +26,12 @@
   text-align: Left;
 }
 </style>
-</head>
+</head> -->
 
 <body style="font-family:'Courier New'" bgcolor="#dedede">
     <div>
     <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-    <img src="images/ec.png" width="800">
+    <img src="ec.png" width="800">
     
   <p>&nbsp; ---------------------------------------------------------------------------------</p>
     
@@ -41,23 +41,22 @@
 
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
   <h3></h3>
-     
-        <table>
+  <table>
 
   
-        <tbody>
-            <!-- <tr><td>&nbsp;[WIP]</td></tr> -->
+<tbody>
+<!-- <tr><td>&nbsp;[WIP]</td></tr> -->
 
-           <tr><td>&nbsp;2026-02-09 Added <a href=https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/everanchaffee/music/music.html>music</a></td></tr>
+<tr><td>&nbsp;2026-02-09 Added <a href=music/music.html>music</a></td></tr>
 
-            <tr><td>&nbsp;2025-12-12 Now with <a href=https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/everanchaffee/photo-grid/photo-grid.html>photo-grid</a></td></tr>
+<tr><td>&nbsp;2025-12-12 Now with <a href=photo-grid/photo-grid.html>photo-grid</a></td></tr>
 
-            <tr><td>&nbsp;2025-11-06 Back online!</td></tr>
+<tr><td>&nbsp;2025-11-06 Back online!</td></tr>
 
-            <tr><td>&nbsp;2020-03-26 Also see: <a href=https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/wims/>WIMS llc</a></td></tr>
-            <tr><td></td><td></td><td></td></tr>
-      </tbody>
-    </table>
+<tr><td>&nbsp;2020-03-26 Also see: <a href=https://e34ran.github.io/web-wims/>WIMS llc</a></td></tr>
+<tr></tr>
+</tbody>
+</table>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 
 
