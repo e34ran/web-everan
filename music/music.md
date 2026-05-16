@@ -48,18 +48,18 @@
             <tr><td>&nbsp;2026-02-10 Twin Fantasy, 2011 <a href=https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/everanchaffee/music/cshr.zip>cshr.zip</a></td></tr>
             <tr><td>&nbsp;2026-02-10 Made In Heights - Without My Enemy What Would I Do, 2015 <a href=https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/everanchaffee/music/heights.zip>heights.zip</a></td></tr>
             <tr><td>&nbsp;           Kelsey Bulkin on <a href=https://kelseybulkin.com/madeinheights>kelseybulkin.com</a></td></tr>
-            <tr><td></td><td></td><td></td></tr>
+            <tr><td></td></tr>
             <tr><td>&nbsp;2026-02-10 Molly Rankin - She EP, 2010 <a href=https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/everanchaffee/music/rankin.zip>rankin.zip</a></td></tr>
             <tr><td>&nbsp;           Molly Rankin on <a href=https://zunior.com/collections/independent-molly-rankin/products/molly-rankin-she-ep>Zunior.com</a></td></tr>
-            <tr><td></td><td></td><td></td></tr>
+            <tr><td></td></tr>
             <tr><td>&nbsp;2026-02-10 part fortune - phone songs, 2017 <a href=https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/everanchaffee/music/starboy.zip>starboy.zip</a></td></tr>
             <tr><td>&nbsp;           <a href=https://starboy.bandcamp.com>part fortune on Bandcamp</a></td></tr>
-            <tr><td></td><td></td><td></td></tr>
+            <tr><td></td></tr>
             <tr><td>&nbsp;2026-02-10 Childish Gambino - STN MTN EP, 2014 <a href=https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/everanchaffee/music/stnmtn.zip>stnmtn.zip</a></td></tr>
             <tr><td>&nbsp;           From <a href=https://mixtapemonkey.com/1195/childish-gambino-stn-mtn>mixtapemonkey.com</a></td></tr>
-            <tr><td></td><td></td><td></td></tr>
+            <tr><td></td></tr>
             <tr><td>&nbsp;2026-02-10 13" Frank Beltrame Italian Stiletto with Bison Horn Grips, 2024 <a href=https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/everanchaffee/music/xiuxiu.zip>xiuxiu.zip</a></td></tr>
-            <tr><td></td><td></td><td></td></tr>
+            <tr><td></td></tr>
       </tbody>
     </table>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
