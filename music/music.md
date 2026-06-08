@@ -46,7 +46,7 @@
   
 <tbody>
             <tr><td>2026-06-08 Is it still hedonism if you're feeling miserable? (New Weezer) <a href= https://open.spotify.com/playlist/0n1c7XUXMVBMLC4w5BPFll?si=LrRp3PyGSPmW_MCMYEfz-Q>Wednesday Verse</a></td></tr>
-            <tr><td>           Original Demo <a href=https://m.youtube.com/watch?v=DRWvtTOJ4P4></a>
+            <tr><td>           <a href=https://m.youtube.com/watch?v=DRWvtTOJ4P4>Original Demo</a></tr></td>
             <tr><td>2026-05-15 Rehost on github broke most of the links.</td></tr>
             <tr><td>- - - - - - - - - - - -</td></tr>
             <tr><td>2026-04-28 dead end <a href=https://open.spotify.com/playlist/2xj3yPSJ6uGEOeURnPAxPS>尔雅</a></td></tr>
