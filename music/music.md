@@ -46,7 +46,7 @@
   
 <tbody>
             <tr><td>2026-06-08</td></tr>
-            <tr><td>2026-06-08 dead end <a href=https://open.spotify.com/playlist/2xj3yPSJ6uGEOeURnPAxPS>尔雅</a></td></tr>
+            <tr><td>2026-04-28 dead end <a href=https://open.spotify.com/playlist/2xj3yPSJ6uGEOeURnPAxPS>尔雅</a></td></tr>
             <tr><td>2026-05-15 Rehosted</td></tr>
             <tr><td>- - - - - - - - - - - -</td></tr>
             <tr><td>&nbsp;2026-02-10 Twin Fantasy, 2011 <a href=https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/everanchaffee/music/cshr.zip>cshr.zip</a></td></tr>
