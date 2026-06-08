@@ -45,9 +45,13 @@
 
   
 <tbody>
-            <tr><td>New</td></tr>
-            <tr><td></td></tr>
-            <!--tr><td>&nbsp;2026-02-10 Twin Fantasy, 2011 <a href=https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/everanchaffee/music/cshr.zip>cshr.zip</a></td></tr>
+            <tr><td>2026-06-08  (New Weezer) <a href= https://open.spotify.com/playlist/0n1c7XUXMVBMLC4w5BPFll?si=LrRp3PyGSPmW_MCMYEfz-Q>Is it still hedonism if you're feeling miserable?</a></td></tr>
+            <tr><td>           <a href=https://m.youtube.com/watch?v=DRWvtTOJ4P4>Wednesday Verse</a></tr></td>        
+            <tr><td>           <a href=https://m.youtube.com/watch?v=DRWvtTOJ4P4>Original Demo</a></tr></td>
+            <tr><td>2026-05-15 Rehost on github broke most of the links.</td></tr>
+            <tr><td>- - - - - - - - - - - -</td></tr>
+            <tr><td>2026-04-28 dead end <a href=https://open.spotify.com/playlist/2xj3yPSJ6uGEOeURnPAxPS>尔雅</a></td></tr>
+            <tr><td>&nbsp;2026-02-10 Twin Fantasy, 2011 <a href=https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/everanchaffee/music/cshr.zip>cshr.zip</a></td></tr>
             <tr><td>&nbsp;2026-02-10 Made In Heights - Without My Enemy What Would I Do, 2015 <a href=https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/everanchaffee/music/heights.zip>heights.zip</a></td></tr>
             <tr><td>&nbsp;           Kelsey Bulkin on <a href=https://kelseybulkin.com/madeinheights>kelseybulkin.com</a></td></tr>
             <tr><td></td></tr>
@@ -61,7 +65,8 @@
             <tr><td>&nbsp;           From <a href=https://mixtapemonkey.com/1195/childish-gambino-stn-mtn>mixtapemonkey.com</a></td></tr>
             <tr><td></td></tr>
             <tr><td>&nbsp;2026-02-10 13" Frank Beltrame Italian Stiletto with Bison Horn Grips, 2024 <a href=https://5fjml39v2jsatwroesd9tw.on.drv.tw/web/everanchaffee/music/xiuxiu.zip>xiuxiu.zip</a></td></tr>
-            <tr><td></td></tr-->
+            <tr><td></td></tr>
+            <tr><td>(You're still my muse)</td></tr>
       </tbody>
     </table>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
