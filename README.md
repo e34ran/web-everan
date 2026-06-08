@@ -48,11 +48,10 @@
 <!-- <tr><td>&nbsp;[WIP]</td></tr> -->
 
 <tr><td>&nbsp;2026-05-15 Rehost</td></tr>
-<tr><td>&nbsp;2026-02-09 Added <a href=music.html>music</a></td></tr>
-<tr><td>&nbsp;2025-12-12 Now with <a href=hoto-grid.html>photo-grid</a></td></tr>
+<tr><td>&nbsp;2026-02-09 Added <a href=/music.html>music</a></td></tr>
+<tr><td>&nbsp;2025-12-12 Now with <a href=/photo-grid.html>photo-grid</a></td></tr>
 <tr><td>&nbsp;2025-11-06 Back online!</td></tr>
-
-<tr><td>&nbsp;2020-03-26 Also see: <a href=https://e34ran.github.io/web-wims/>WIMS llc</a></td></tr>
+<tr><td>&nbsp;2020-03-26 Also see: <a href=https://wims.dev>WIMS llc</a></td></tr>
 <tr></tr>
 </tbody>
 </table>
